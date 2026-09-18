@@ -1,41 +1,7 @@
 ---
 name: new-project-system
 description: >
-  New Project System — the complete idea-to-execution engine for the {{COMPANY_NAME}} GTM team and
-  a Center of Excellence record-keeper. Takes ANY project input (an idea typed in chat, an
-  Asana task or project URL, a pasted email thread, uploaded files, links to scrape, or a
-  vague one-line goal) and runs the full pipeline: silent questionnaire extraction → master
-  knowledge base → PAL build prompt → RAG/DAL best-practice enrichment → PRD → architecture
-  diagram → reporting framework → tech stack + API key sheet → NPAO-classified JTBD build plan
-  → calendar-aware schedule → Leadership Summary → saved project directory → Handoff Package
-  for autonomous build. ALWAYS use when anyone says: "start a new project", "I want to build
-  X", "turn this into a project", "run the intake", "kick off a project", "create a project
-  plan", "new project", "spec this out", "document this project", "I have an idea", "plan this
-  out", "build me a project plan", "scope this", "what's the plan for", "JTBD this", "PAL
-  compile this", "schedule my build", "fit this into my week", or submits any description,
-  file, Asana link, or idea they want turned into a complete, leadership-ready, buildable
-  project package. This is the front door, the engine, and the scheduler in one skill.
-version: "3.1"
-author: {{USER_NAME}} — {{COMPANY_NAME}} GTM AI & Automation
-framework: ROSTR — PAL + NPAO + 4Ds + RAG DAL + ContextEngine + JTBD + CoE
-rostr_paper: https://rostr-paper.vercel.app
-rostr_sections:
-  PAL: https://rostr-paper.vercel.app/#s4
-  RAG_DAL: https://rostr-paper.vercel.app/#s5
-  NPAO: https://rostr-paper.vercel.app/#s6
-  ROSTR_Hub: https://rostr-paper.vercel.app/#s7
-  ContextEngine: https://rostr-paper.vercel.app/#s8
-  Glossary: https://rostr-paper.vercel.app/#appendix-a
-  Playground: https://rostr-paper.vercel.app/playground.html
-references:
-  - references/PROJECT_INTAKE_QUESTIONNAIRE.md
-  - references/JTBD_BUILDER.md
-  - references/SCHEDULER.md
-  - references/PAL_FRAMEWORK.md
-  - references/NPAO_4Ds_FRAMEWORK.md
-  - references/RAGDAL_FRAMEWORK.md
-  - references/ROSTR_HUB_CONTEXTENGINE.md
-  - references/PRD_TEMPLATE.md
+  New Project System — the complete idea-to-execution engine for the Enterprise Platform GTM team and a Center of Excellence record-keeper. Takes ANY project input (an idea typed in chat, an Asana task or project URL, a pasted email thread, uploaded files, links to scrape, or a vague one-line goal) and runs the full pipeline: silent questionnaire extraction → master knowledge base → PAL build prompt → RAG/DAL best-practice enrichment → PRD → architecture diagram → reporting framework → tech stack + API key sheet → NPAO-classified JTBD build plan → calendar-aware schedule → Leadership Summary → saved project directory → Handoff Package for autonomous build. ALWAYS use when anyone says: "start a new project", "I want to build X", "turn this into a project", "run the intake", "kick off a project", "create a project plan", "new project", "spec this out", "document this project", "I have an idea", "plan this out", "build me a project plan", "scope this", "what's the plan for", "JTBD this...
 ---
 
 # New Project System
@@ -470,7 +436,7 @@ Every project package must:
 
 ---
 
-## {{COMPANY_NAME}} GTM Auto-Context (applied automatically)
+## Enterprise Platform GTM Auto-Context (applied automatically)
 
 - **Stack:** HubSpot → Clay → Amplemarket → n8n → Factors.ai
 - **ICP:** Companies expanding globally, 50–5,000 employees, hiring in 2+ countries
